@@ -18,5 +18,5 @@ Predicts whether a student will pass or fail based on study hours using Logistic
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
-python student_performance_model.py
+python student_performance_predictor.py
 
